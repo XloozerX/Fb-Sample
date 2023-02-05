@@ -1,0 +1,151 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 30px;
+    float: left;
+}
+.login{
+    width: 50%;
+}
+.logo-text{
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 140px;
+  }
+.login-label{
+    color: #fff;
+}
+.login-control{
+    padding-left: 290px;
+    padding-top: 10px;
+  }
+.login{
+    padding-top: 10px;
+}
+.forgotten{
+    color: #fff;
+    font-size: 11px;
+    text-decoration: none;
+    color: #9cb4d8;
+}
+.sub-btn{
+    background: #4267b2;
+    color:#fff;
+    height: 25px;
+    border-color: #29487d;
+    cursor: pointer
+}
+.sub-btn:hover{
+    background: #3b5998;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 86px;
+    padding-top: 75px;
+}
+.right-section{
+    width: 35%;
+    float: left;
+    margin: -12px;
+    padding-left: 22px;
+}
+.main-body{
+    background: linear-gradient(black);
+    width: 100%;
+    height: 500px;
+}
+.Image{
+    width: 909px;
+    height: 500px;
+  }
+  .Para{
+    font-weight: bold;
+    font-size: 30px;
+  }
+  .input{
+    padding-left: 215px;
+     padding-top: 21px;
+
+  }
+  .name{
+    border-radius: 5px;
+    width: 163px;
+    height: 33px;
+  }
+.Create-acc{
+     font-weight: bold;
+     font-size: 38px;
+     padding-left: 202px;
+     margin-bottom: -12px;
+}
+.H4{
+    padding-left: 209px;
+     padding-top: 1px;
+}
+.email{
+    border-radius: 5px;
+    height: 33px;
+    width: 340px;
+}
+.New-password{
+    border-radius: 5px;
+    height: 31px;
+    width: 340px;
+}
+.Bday{
+    padding-left: 218px;
+    color: #85827d;
+}
+.Days{
+    margin-left: 221px;
+    color: #85827d;
+    border-color: #eee8de;
+    border-radius: 6px;
+}
+.Month{ 
+    margin-left: 1px;
+    color: #85827d;
+    border-color: #eee8de;
+    border-radius: 6px;
+}
+.Year{
+    margin-left: 1px;
+    color: #85827d;
+    border-color: #eee8de;
+    border-radius: 6px;
+}
+.Gender{
+    padding-left: 213px;
+}
+.Para2{
+    padding-left: 228px;
+    text-size-adjust: 20%;
+}
+.Button{
+     margin-left: 241px;
+     background: green;
+     border-radius: 6px;
+     width: 147px;
+     height: 38px;
+     color: white;
+    border-color: green;
+
+}
+.None{
+text-decoration: none;
+}
+.Just{
+    padding-left: 230px;
+}
